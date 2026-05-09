@@ -118,7 +118,7 @@ Then update Cell 4 in the notebook to load from raw files instead of synthetic d
 Click the link below to open the master notebook directly in Colab:
 
 ```
-https://colab.research.google.com/drive/[YOUR_COLAB_LINK_HERE]
+https://colab.research.google.com/drive/1GYIflnSAFcyQQD7I86Xefkr87_8e5wRP
 ```
 
 Or upload `MASTER_notebook.ipynb` manually to Google Colab.
